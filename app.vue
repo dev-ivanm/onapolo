@@ -3,7 +3,7 @@
     <Header />
     <Hero />
     <Colecciones />
-    <ListaProductos />
+    
     <Footer />
   </div>
 </template>

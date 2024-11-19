@@ -45,7 +45,7 @@
             </div>
           </div>
 
-          <div class="border-t border-gray-200 px-4 py-6">
+          <!--<div class="border-t border-gray-200 px-4 py-6">
             <a href="#" class="-m-2 flex items-center p-2">
               <img
                 src="https://tailwindui.com/plus/img/flags/flag-canada.svg"
@@ -57,7 +57,7 @@
               >
               <span class="sr-only">, change currency</span>
             </a>
-          </div>
+          </div>-->
         </div>
       </div>
     </div>
